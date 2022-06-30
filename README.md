@@ -1,5 +1,5 @@
 # PragmaIRC
-An IRC bot I coded in C++ somewhere between 2011-2015. The bot does not come shipped with any logic, but rather it incorporates Lua 5.2 and allows the user to provide a "script.lua" file. The custom Lua VM functions and events are listed below.
+An IRC framework that I created in C++ somewhere between 2011-2015. It incorporates Lua 5.2, and allows the user to provide their own logic using a "script.lua" file. The custom Lua VM functions and events are listed below.
 
 ## Functions
 * output
